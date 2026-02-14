@@ -23,9 +23,9 @@ How to Run the Programs
 Install Python from
 https://www.python.org/downloads/
 Clone this repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/PLACEMENT/repository-name.git
 Open the folder:
-cd repository-name
+cd PLACEMENT
 Run any program:
 python filename.py
 Learning Goals
