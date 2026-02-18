@@ -23,7 +23,7 @@ How to Run the Programs
 Install Python from
 https://www.python.org/downloads/
 Clone this repository:
-git clone https://github.com/PLACEMENT/repository-name.git
+git clone https://github.com/shashiraju812/PLACEMENT/
 Open the folder:
 cd PLACEMENT
 Run any program:
